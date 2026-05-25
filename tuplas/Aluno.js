@@ -1,0 +1,3 @@
+nomeAluno
+Idade
+Turma
