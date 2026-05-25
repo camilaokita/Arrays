@@ -1,3 +1,3 @@
 //Lista de frutas
-let frutas = ['Kiwi','Abacaxi','Limãp','Pêssego','Morango'];
+let frutas = ['Kiwi','Abacaxi','Limão','Pêssego','Morango'];
 console.log(frutas); //mostra lista
